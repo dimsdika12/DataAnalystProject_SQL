@@ -22,6 +22,6 @@ The project encompasses the following steps:
 
 ## Dashboard Visualization
 
-A dashboard visualization is available [here](www.looker.com) for a more interactive view of the data analysis results.
+A dashboard visualization is available [here](https://lookerstudio.google.com/reporting/e73f0bab-0ec5-4bc7-a156-b755a1d4be64/page/rpjjD/edit) for a more interactive view of the data analysis results.
 
 This project aims to provide insights into the COVID-19 situation in Southeast Asian countries, highlighting key metrics such as death percentages, infection rates, vaccination coverage, and daily case counts. The analysis involves various SQL queries, data manipulation, and calculations to derive meaningful insights from the dataset.
